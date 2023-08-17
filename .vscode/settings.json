@@ -1,0 +1,13 @@
+{
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.renderWhitespace": "all",
+        "editor.quickSuggestions": {
+            "other": "on",
+            "comments": "on",
+            "strings": "on"
+        },
+        "editor.acceptSuggestionOnEnter": "on",
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+}
