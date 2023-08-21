@@ -1,4 +1,4 @@
-# ChemAssistant-A advanced chemical bot based on GPT 4.0
+# ChemAssistant-An advanced chemical bot based on GPT 4.0
 
 Note: Please note that use LINUX system.
 
