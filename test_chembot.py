@@ -5,7 +5,7 @@ import openai
 import logging
 
 data = pd.DataFrame(columns=['entity','IUPACname','solid','soluble','filter'])
-df = pd.read_csv(os.getcwd()+'/entity_data/gpt4_entity.csv')
+df = pd.read_csv(os.getcwd()+'/experiment_data/gpt4_entity.csv')
 
 data['filter']=0
 # Set up logging
