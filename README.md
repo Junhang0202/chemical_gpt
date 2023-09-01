@@ -10,7 +10,7 @@ Our objective is to assist chemists in simplifying the process of extracting val
 
 ## How MatWISE works
 
-<div align=center><img src="../MatWISE.png"></div>
+<div align=center><img src="./MatWISE.png"></div>
 
 
 - **Step1. Named Entity Recognition**: The first step in the MatWISE involves the use of advanced Named Entity Recognition models. We utilize models such as [`Stanza`](https://stanfordnlp.github.io/stanza/biomed.html) to recognize and categorize entities in our large body of scientific literature. This allows us to extract material entities from the text and use it in the subsequent steps of the process.
