@@ -45,7 +45,7 @@ def preprocess_and_download(keyword, suffix_list):
     data.to_json('PMID.json',orient='columns')
 
     # Download the abstracts
-    Entrez.email = 'jiahaoq0036@gmail.com'
+    Entrez.email = 'xxxxxxxx'
     with open("PMID.json") as f:
         validpmid = json.load(f)
         validpmid=validpmid["value"]
@@ -58,7 +58,7 @@ def preprocess_and_download(keyword, suffix_list):
         title_list = []
 
         abstract_list = []
-        Entrez.api_key='27bc373ee1adc78b8f42b9a57b3b768e1309'
+        Entrez.api_key='xxxxxxxxxx'
 
         fetch = PubMedFetcher()
         count = 0

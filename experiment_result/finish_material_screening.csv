@@ -1,0 +1,478 @@
+entity,IUPACname,solid,soluble,filter
+ OXYNEURINE,2-(trimethylazaniumyl)acetate,Yes,No,1
+PYROCATECHOL,"benzene-1,2-diol",Yes,No,1
+CITRIC ACID,"2-hydroxypropane-1,2,3-tricarboxylic acid",Yes,No,1
+SALICYLIC ACID,2-hydroxybenzoic acid,Yes,No,1
+MICROCRYSTALLINE CELLULOSE,molecular hydrogen,Yes,No,1
+INDOLE,1H-indole,Yes,No,1
+INDOLE-3-ACETIC ACID,2-(1H-indol-3-yl)acetic acid,Yes,No,1
+INDOLE ACETIC ACID,2-(1H-indol-3-yl)acetic acid,Yes,No,1
+AUXIN,2-(1H-indol-3-yl)acetic acid,Yes,No,1
+DL-MET,2-amino-4-methylsulfanylbutanoic acid,Yes,No,1
+NICKEL,nickel,Yes,No,1
+NI,nickel,Yes,No,1
+PHENOL,phenol,Yes,No,1
+PPY,2-oxo-3-phenylpropanoic acid,Yes,No,1
+TMAO,"N,N-dimethylmethanamine oxide",Yes,No,1
+CARBAMIDE,urea,Yes,No,1
+XANTHINE,"3,7-dihydropurine-2,6-dione",Yes,No,1
+ACETAMINOPHEN,N-(4-hydroxyphenyl)acetamide,Yes,No,1
+4-ACETAMIDOPHENOL,N-(4-hydroxyphenyl)acetamide,Yes,No,1
+PAH,2-[(4-aminobenzoyl)amino]acetic acid,Yes,No,1
+BENZO[A]PYRENE,benzo[a]pyrene,Yes,No,1
+6-DIONE,"1,3,7-trimethylpurine-2,6-dione",Yes,No,1
+3-METHYL-1-PHENYL-2-PYRAZOLIN-5-ONE,5-methyl-2-phenyl-4H-pyrazol-3-one,Yes,No,1
+PROBENECID,4-(dipropylsulfamoyl)benzoic acid,Yes,No,1
+STEARIC ACID,octadecanoic acid,Yes,No,1
+OCTADECANOIC ACID,octadecanoic acid,Yes,No,1
+C18:0,octadecanoic acid,Yes,No,1
+CYSTEINE,(2R)-2-amino-3-sulfanylpropanoic acid,Yes,No,1
+L-CYSTEINE,(2R)-2-amino-3-sulfanylpropanoic acid,Yes,No,1
+ASPARTIC ACID,(2S)-2-aminobutanedioic acid,Yes,No,1
+L-TYR,(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid,Yes,No,1
+L-LEU,(2S)-2-amino-4-methylpentanoic acid,Yes,No,1
+L-MET,(2S)-2-amino-4-methylsulfanylbutanoic acid,Yes,No,1
+ARGININE,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid,Yes,No,1
+VC,chloroethene,Yes,No,1
+OPD,"benzene-1,2-diamine",Yes,No,1
+MELAMINE,"1,3,5-triazine-2,4,6-triamine",Yes,No,1
+TRIACYLGLYCEROL,"2,3-di(octadecanoyloxy)propyl octadecanoate",Yes,No,1
+ACETYLCYSTEINE,(2R)-2-acetamido-3-sulfanylpropanoic acid,Yes,No,1
+SODIUM HYDROXIDE,sodium;hydroxide,Yes,No,1
+MOLYBDENUM,molybdenum,Yes,No,1
+PALLADIUM,palladium,Yes,No,1
+PLATINUM,platinum,Yes,No,1
+PA,protactinium,Yes,No,1
+SM,samarium,Yes,No,1
+SC,scandium,Yes,No,1
+SILVER,silver,Yes,No,1
+AG,silver,Yes,No,1
+CADMIUM,cadmium,Yes,No,1
+COPPER,copper,Yes,No,1
+AU,gold,Yes,No,1
+GOLD,gold,Yes,No,1
+ZINC,zinc,Yes,No,1
+ZN,zinc,Yes,No,1
+ZINC FOIL,zinc,Yes,No,1
+CITRATE,"2-hydroxypropane-1,2,3-tricarboxylate",Yes,No,1
+5'-TETRAMETHYLBENZIDINE,"4-(4-amino-3,5-dimethylphenyl)-2,6-dimethylaniline",Yes,No,1
+CALCIUM OXALATE DIHYDRATE,calcium;oxalate;dihydrate,Yes,No,1
+WEDDELLITE,calcium;oxalate;dihydrate,Yes,No,1
+SUCCINATE,butanedioate,Yes,No,1
+CALCIUM OXALATE MONOHYDRATE,calcium;oxalate;hydrate,Yes,No,1
+SODIUM ACETATE,sodium;acetate,Yes,No,1
+HNE,(E)-4-hydroxynon-2-enal,Yes,No,1
+SB,antimony,Yes,No,1
+BA,barium,Yes,No,1
+ARSENIC,arsenic,Yes,No,1
+AS,arsenic,Yes,No,1
+SULFUR,sulfur,Yes,No,1
+SULPHUR,sulfur,Yes,No,1
+S,sulfur,Yes,No,1
+TRIGLYCERIDE,"2,3-diformyloxypropyl formate",Yes,No,1
+POTASSIUM,potassium,Yes,No,1
+MAGNESIUM POWDER,magnesium,Yes,No,1
+PHOSPHORUS,phosphorus,Yes,No,1
+BORON,boron,Yes,No,1
+B,boron,Yes,No,1
+SELENIUM,selenium,Yes,No,1
+SE,selenium,Yes,No,1
+PO,polonium,Yes,No,1
+PHOSPHOROUS,lambda1-phosphane,Yes,No,1
+FERRIC,"3-[[(3S,7S,11S)-7,11-bis[(2,3-dioxidobenzoyl)amino]-2,6,10-trioxo-1,5,9-trioxacyclododec-3-yl]carbamoyl]benzene-1,2-diolate;iron(3+)",Yes,No,1
+GUANINE,"2-amino-1,7-dihydropurin-6-one",Yes,No,1
+GRAPHENE,carbon,Yes,No,1
+CARBON NANOTUBE,carbon,Yes,No,1
+SWCNT,carbon,Yes,No,1
+CARBON NANORODS,methane,Yes,No,1
+CALCIUM OXALATE,calcium;oxalate,Yes,No,1
+SILVER CHLORIDE,chlorosilver,Yes,No,1
+CALCIUM PHOSPHATE,tricalcium;diphosphate,Yes,No,1
+PRUSSIAN BLUE,iron(2+);iron(3+);octadecacyanide,Yes,No,1
+DICALCIUM PHOSPHATE DIHYDRATE,calcium;hydrogen phosphate;dihydrate,Yes,No,1
+CALCIUM PYROPHOSPHATE,dicalcium;phosphonato phosphate,Yes,No,1
+FE3O4,oxoiron;oxo(oxoferriooxy)iron,Yes,No,1
+ZIF-67,cobalt(2+);2-methylimidazol-3-ide,Yes,No,1
+CALCIUM HYDROXYAPATITE,pentacalcium;hydroxide;triphosphate,Yes,No,1
+SILICON DIOXIDE,dioxosilane,Yes,No,1
+TITANIUM DIOXIDE,dioxotitanium,Yes,No,1
+NICKEL OXIDE,oxonickel,Yes,No,1
+MNO2,dioxomanganese,Yes,No,1
+ZINC OXIDE,oxozinc,Yes,No,1
+MOS2,bis(sulfanylidene)molybdenum,Yes,No,1
+INDIUM TIN OXIDE,oxo(oxoindiganyloxy)indigane;oxotin,Yes,No,1
+GABA,4-aminobutanoic acid,No,Yes,0
+ GAMMA-AMINOBUTYRIC ACID,4-aminobutanoic acid,No,Yes,0
+5-ALA,5-amino-4-oxopentanoic acid,No,Yes,0
+ 5-AMINOLEVULINIC ACID,5-amino-4-oxopentanoic acid,No,Yes,0
+ETHYLENE GLYCOL,"ethane-1,2-diol",No,No,0
+ PEG,"ethane-1,2-diol",Yes,Yes,0
+ ETHANE-1,"ethane-1,2-diol",No,No,0
+2-DIOL,"ethane-1,2-diol",No,No,0
+ ETHYLENE-GLYCOL,"ethane-1,2-diol",No,Yes,0
+ MACROGOL,"ethane-1,2-diol",Yes,Yes,0
+ACETATE,acetate,Yes,Yes,0
+ACETIC ACID,acetic acid,No,Yes,0
+ CH3COOH,acetic acid,No,Yes,0
+ ACY,acetic acid,No,No,0
+ ACETIC ACID-,acetic acid,No,Yes,0
+ACETYLCHOLINE,2-acetyloxyethyl(trimethyl)azanium,Yes,Yes,0
+ ACH,2-acetyloxyethyl(trimethyl)azanium,No,No,0
+AMMONIA,azane,No,Yes,0
+ NH3,azane,No,Yes,0
+ NH4,azane,No,Yes,0
+AMMONIUM,azanium,Yes,Yes,0
+ NH4+,azanium,No,Yes,0
+BETAINE,2-(trimethylazaniumyl)acetate,No,No,0
+ GLYCINE BETAINE,2-(trimethylazaniumyl)acetate,No,Yes,0
+ N,2-(trimethylazaniumyl)acetate,No,No,0
+N,2-(trimethylazaniumyl)acetate,No,Yes,0
+N-TRIMETHYLGLYCINE,2-(trimethylazaniumyl)acetate,No,Yes,0
+BUTANOL,butan-1-ol,No,Yes,0
+ N-BUTANOL,butan-1-ol,No,Yes,0
+ BUOH,butan-1-ol,No,Yes,0
+BUTYRIC ACID,butanoic acid,No,Yes,0
+ BUA,butanoic acid,No,No,0
+ BUTANOIC ACID,butanoic acid,No,Yes,0
+CA2+,calcium(2+),No,Yes,0
+CARNITINE,3-hydroxy-4-(trimethylazaniumyl)butanoate,Yes,Yes,0
+CATECHOL,"benzene-1,2-diol",Yes,Yes,0
+CHOLINE,2-hydroxyethyl(trimethyl)azanium,No,No,0
+CHT,2-hydroxyethyl(trimethyl)azanium,No,No,0
+CHLORIDE,chloride,No,Yes,0
+CHLORIDE ION,chloride,No,Yes,0
+HCL,chlorane,No,Yes,0
+HYDROCHLORIC ACID,chlorane,No,Yes,0
+GALLIC ACID,"3,4,5-trihydroxybenzoic acid",Yes,Yes,0
+THIOL,sulfane,No,No,0
+H2S,sulfane,No,Yes,0
+HIPPURIC ACID,2-benzamidoacetic acid,No,Yes,0
+N-BENZOYLGLYCINE,2-benzamidoacetic acid,No,No,0
+MALIC ACID,2-hydroxybutanedioic acid,Yes,Yes,0
+CREATINE,2-[carbamimidoyl(methyl)amino]acetic acid,No,Yes,0
+CREATININE,2-amino-3-methyl-4H-imidazol-5-one,No,Yes,0
+LACTIC ACID,2-hydroxypropanoic acid,No,Yes,0
+DAPA,"7,8-diaminononanoic acid",No,No,0
+DMSO,methylsulfinylmethane,No,Yes,0
+DIMETHYL SULFOXIDE,methylsulfinylmethane,No,Yes,0
+DOPAMINE,"4-(2-aminoethyl)benzene-1,2-diol",No,Yes,0
+ALCOHOL,ethanol,No,Yes,0
+ETHANOL,ethanol,No,No,0
+C2H5OH,ethanol,No,Yes,0
+GLY,2-aminoacetic acid,No,Yes,0
+L-GLYCINE,2-aminoacetic acid,Yes,Yes,0
+GLYCEROL,"propane-1,2,3-triol",No,Yes,0
+BICARBONATE,hydrogen carbonate,Yes,Yes,0
+HCO3,hydrogen carbonate,No,Yes,0
+HYDROGEN,molecular hydrogen,No,No,0
+H2O2,hydrogen peroxide,No,Yes,0
+HYDROQUINONE,"benzene-1,4-diol",Yes,Yes,0
+HQ,"benzene-1,4-diol",No,No,0
+IND,1H-indole,No,Yes,0
+IAA,2-(1H-indol-3-yl)acetic acid,Yes,Yes,0
+IODINE,molecular iodine,Yes,Yes,0
+I2,molecular iodine,Yes,Yes,0
+POTASSIUM ION,potassium(1+),No,Yes,0
+KYNURENINE,2-amino-4-(2-aminophenyl)-4-oxobutanoic acid,No,Yes,0
+ALPHA-LIPOIC ACID,5-(dithiolan-3-yl)pentanoic acid,No,No,0
+METHANOL,methanol,No,Yes,0
+CH3OH,methanol,No,Yes,0
+MAGNESIUM IONS,magnesium(2+),No,Yes,0
+MYO-INOSITOL,"cyclohexane-1,2,3,4,5,6-hexol",No,No,0
+INS,"cyclohexane-1,2,3,4,5,6-hexol",No,No,0
+SODIUM-ION,sodium(1+),No,Yes,0
+NARINGENIN,"5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",No,Yes,0
+NICKEL IONS,nickel(2+),No,Yes,0
+NICKEL (II),nickel(2+),Yes,Yes,0
+NICOTINAMIDE,pyridine-3-carboxamide,Yes,Yes,0
+NAM,pyridine-3-carboxamide,Yes,Yes,0
+NIO,pyridine-3-carboxylic acid,Yes,Yes,0
+NIACIN,pyridine-3-carboxylic acid,Yes,Yes,0
+NICOTINIC ACID,pyridine-3-carboxylic acid,Yes,Yes,0
+NITRATES,nitrate,Yes,Yes,0
+NITRITE,nitrite,Yes,Yes,0
+NITROGEN,molecular nitrogen,No,No,0
+OH,hydroxide,No,Yes,0
+HYDROXIDE,hydroxide,Yes,Yes,0
+WATER,oxidane,Yes,Yes,0
+H2O,oxidane,No,Yes,0
+OXALIC ACID,oxalic acid,Yes,Yes,0
+OXYGEN,molecular oxygen,No,No,0
+O2,molecular oxygen,No,No,0
+PAB,4-aminobenzoic acid,No,No,0
+PABA,4-aminobenzoic acid,Yes,Yes,0
+PNP,4-nitrophenol,Yes,Yes,0
+PALMITIC ACID,hexadecanoic acid,Yes,Yes,0
+FAT,hexadecanoic acid,Yes,Yes,0
+PHENYLPYRUVATE,2-oxo-3-phenylpropanoic acid,No,No,0
+PURINE,7H-purine,No,Yes,0
+PURIN,7H-purine,Yes,Yes,0
+PYRAZINAMIDE,pyrazine-2-carboxamide,No,Yes,0
+PZA,pyrazine-2-carboxamide,No,Yes,0
+PHOSPHATE,phosphate,No,Yes,0
+PHOSPHATE ION,phosphate,No,Yes,0
+SARCOSINE,2-(methylamino)acetic acid,No,Yes,0
+SAR,2-(methylamino)acetic acid,No,No,0
+SULPHATE,sulfate,Yes,Yes,0
+TAURINE,2-aminoethanesulfonic acid,No,Yes,0
+TRIMETHYLAMINE-N-OXIDE,"N,N-dimethylmethanamine oxide",Yes,Yes,0
+TSH,2-(1H-indol-3-yl)ethanamine,No,Yes,0
+TRYPTAMINE,2-(1H-indol-3-yl)ethanamine,No,Yes,0
+URACIL,"1H-pyrimidine-2,4-dione",No,Yes,0
+URA,"1H-pyrimidine-2,4-dione",Yes,Yes,0
+UREA,urea,Yes,Yes,0
+VANILLIN,4-hydroxy-3-methoxybenzaldehyde,Yes,Yes,0
+XAN,"3,7-dihydropurine-2,6-dione",No,No,0
+ALP,(2-methoxy-3-octadecoxypropyl) 2-(trimethylazaniumyl)ethyl phosphate,Yes,Yes,0
+HVA,2-(4-hydroxy-3-methoxyphenyl)acetic acid,No,No,0
+HOMOVANILLIC ACID,2-(4-hydroxy-3-methoxyphenyl)acetic acid,No,Yes,0
+N-ACETYL-P-AMINOPHENOL,N-(4-hydroxyphenyl)acetamide,Yes,Yes,0
+PARA-AMINOHIPPURIC ACID,2-[(4-aminobenzoyl)amino]acetic acid,No,Yes,0
+ASPIRIN,2-acetyloxybenzoic acid,Yes,Yes,0
+BP,benzo[a]pyrene,No,Yes,0
+CAFFEINE,"1,3,7-trimethylpurine-2,6-dione",Yes,Yes,0
+C8H10N4O2,"1,3,7-trimethylpurine-2,6-dione",No,No,0
+7-DIHYDRO-1,"1,3,7-trimethylpurine-2,6-dione",No,No,0
+7-TRIMETHYL-1H-PURINE-2,"1,3,7-trimethylpurine-2,6-dione",No,No,0
+CIS,azanide;dichloroplatinum(2+),Yes,Yes,0
+DICLOFENAC,"2-[2-(2,6-dichloroanilino)phenyl]acetic acid",Yes,Yes,0
+VPA,2-propylpentanoic acid,No,Yes,0
+EUGENOL,2-methoxy-4-prop-2-enylphenol,No,Yes,0
+5-FU,"5-fluoro-1H-pyrimidine-2,4-dione",No,No,0
+GLYPHOSATE,2-(phosphonomethylamino)acetic acid,No,Yes,0
+GPF,2-(phosphonomethylamino)acetic acid,Yes,Yes,0
+HYDRALAZINE,phthalazin-1-ylhydrazine,Yes,Yes,0
+HYDROXYUREA,hydroxyurea,No,Yes,0
+HU,hydroxyurea,No,No,0
+ISONIAZID,pyridine-4-carbohydrazide,Yes,Yes,0
+INH,pyridine-4-carbohydrazide,Yes,Yes,0
+ISO,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol",No,No,0
+ISOPRENALINE,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol",No,Yes,0
+EDARAVONE,5-methyl-2-phenyl-4H-pyrazol-3-one,Yes,Yes,0
+METFORMIN,"3-(diaminomethylidene)-1,1-dimethylguanidine",Yes,Yes,0
+PENTOXIFYLLINE,"3,7-dimethyl-1-(5-oxohexyl)purine-2,6-dione",No,Yes,0
+PX,"3,7-dimethyl-1-(5-oxohexyl)purine-2,6-dione",No,No,0
+KCL,potassium;chloride,Yes,Yes,0
+POTASSIUM-CHLORIDE,potassium;chloride,Yes,Yes,0
+PROPOFOL,"2,6-di(propan-2-yl)phenol",No,No,0
+SACCHARIN,"1,1-dioxo-1,2-benzothiazol-3-one",Yes,Yes,0
+LSA,"1,1-dioxo-1,2-benzothiazol-3-one",No,No,0
+SALT,sodium;chloride,Yes,Yes,0
+SALINE,sodium;chloride,No,Yes,0
+NACL,sodium;chloride,Yes,Yes,0
+SODIUM CHLORIDE,sodium;chloride,Yes,Yes,0
+IODIZED SALT,sodium;chloride,Yes,Yes,0
+NAF,sodium;fluoride,Yes,Yes,0
+SODIUM FLUORIDE,sodium;fluoride,Yes,Yes,0
+THEOBROMINE,"3,7-dimethylpurine-2,6-dione",Yes,Yes,0
+7-DIMETHYLXANTHINE,"3,7-dimethylpurine-2,6-dione",No,No,0
+ALLOXAN,"1,3-diazinane-2,4,5,6-tetrone",No,Yes,0
+EPINEPHRINE,"4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol",Yes,Yes,0
+ADRENALINE,"4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol",No,Yes,0
+IOP,"4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol",No,Yes,0
+ALE,"4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol",No,No,0
+CCL4,tetrachloromethane,No,No,0
+CARBON TETRACHLORIDE,tetrachloromethane,No,No,0
+TETRACHLOROMETHANE,tetrachloromethane,No,No,0
+TEAC,tetraethylazanium;chloride,No,Yes,0
+ALA,(2S)-2-aminopropanoic acid,No,No,0
+L-ALANINE,(2S)-2-aminopropanoic acid,No,Yes,0
+ASPARTATE,(2S)-2-aminobutanedioic acid,No,Yes,0
+L-ASP,(2S)-2-aminobutanedioic acid,No,Yes,0
+ASP,(2S)-2-aminobutanedioic acid,No,Yes,0
+GLN,"(2S)-2,5-diamino-5-oxopentanoic acid",No,Yes,0
+GLUTAMINE,"(2S)-2,5-diamino-5-oxopentanoic acid",No,No,0
+L-GLN,"(2S)-2,5-diamino-5-oxopentanoic acid",Yes,Yes,0
+LYSINE,"(2S)-2,6-diaminohexanoic acid",No,Yes,0
+LYS,"(2S)-2,6-diaminohexanoic acid",No,Yes,0
+CTAB,hexadecyl(trimethyl)azanium;bromide,No,Yes,0
+CETYLTRIMETHYLAMMONIUM BROMIDE,hexadecyl(trimethyl)azanium;bromide,No,Yes,0
+CETRIMONIUM BROMIDE,hexadecyl(trimethyl)azanium;bromide,No,Yes,0
+LEVODOPA,"(2S)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid",No,Yes,0
+L-3,"(2S)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid",No,Yes,0
+4-DIHYDROXYPHENYLALANINE,"(2S)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid",No,No,0
+L-DIHYDROXYPHENYLALANINE,"(2S)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid",No,Yes,0
+EDTA,2-[2-[bis(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetic acid,Yes,Yes,0
+ETHYLENEDIAMINE TETRAACETIC ACID,2-[2-[bis(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetic acid,Yes,Yes,0
+TYROSINE,(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid,No,No,0
+LEUCINE,(2S)-2-amino-4-methylpentanoic acid,None,None,0
+METHIONINE,(2S)-2-amino-4-methylsulfanylbutanoic acid,Yes,Yes,0
+MET,(2S)-2-amino-4-methylsulfanylbutanoic acid,No,Yes,0
+PHE,(2S)-2-amino-3-phenylpropanoic acid,No,Yes,0
+CHLOROFORM,chloroform,No,Yes,0
+VALINE,(2S)-2-amino-3-methylbutanoic acid,No,Yes,0
+ILE,"(2S,3S)-2-amino-3-methylpentanoic acid",Yes,Yes,0
+TCA,"2,2,2-trichloroacetic acid",Yes,Yes,0
+ACRYLAMIDE,prop-2-enamide,Yes,Yes,0
+BPA,4-[2-(4-hydroxyphenyl)propan-2-yl]phenol,Yes,Yes,0
+THYMOL,5-methyl-2-propan-2-ylphenol,Yes,Yes,0
+AGE,2-(prop-2-enoxymethyl)oxirane,No,No,0
+N-HEXANE,hexane,No,No,0
+ HEXANE,hexane,No,No,0
+DEHP,"bis(2-ethylhexyl) benzene-1,2-dicarboxylate",No,Yes,0
+ DOP,"bis(2-ethylhexyl) benzene-1,2-dicarboxylate",No,Yes,0
+ BIS(2-ETHYLHEXYL) PHTHALATE,"bis(2-ethylhexyl) benzene-1,2-dicarboxylate",No,Yes,0
+ETHYL ACETATE,ethyl acetate,No,Yes,0
+ ETOAC,ethyl acetate,No,Yes,0
+PYRIMIDINE,pyrimidine,No,No,0
+LEAD ACETATE,lead(2+);diacetate,Yes,Yes,0
+HYDRAZINE,hydrazine,No,Yes,0
+PFOA,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid",No,Yes,0
+CITRULLINE,(2S)-2-amino-5-(carbamoylamino)pentanoic acid,No,Yes,0
+RHEIN,"4,5-dihydroxy-9,10-dioxoanthracene-2-carboxylic acid",Yes,Yes,0
+INDOXYL SULFATE,1H-indol-3-yl hydrogen sulfate,No,No,0
+CARVACROL,2-methyl-5-propan-2-ylphenol,No,Yes,0
+CK,carbononitridic chloride,No,No,0
+LUMINOL,"5-amino-2,3-dihydrophthalazine-1,4-dione",Yes,Yes,0
+L-CARNITINE,(3R)-3-hydroxy-4-(trimethylazaniumyl)butanoate,No,Yes,0
+LEVOCARNITINE,(3R)-3-hydroxy-4-(trimethylazaniumyl)butanoate,Yes,Yes,0
+MALONDIALDEHYDE,propanedial,No,No,0
+EOSIN,"disodium;2-(2,4,5,7-tetrabromo-3-oxido-6-oxoxanthen-9-yl)benzoate",Yes,Yes,0
+PAEONOL,1-(2-hydroxy-4-methoxyphenyl)ethanone,Yes,Yes,0
+NA,(2R)-2-acetamido-3-sulfanylpropanoic acid,Yes,Yes,0
+POTASSIUM CITRATE,"tripotassium;2-hydroxypropane-1,2,3-tricarboxylate",Yes,Yes,0
+K CITRATE,"tripotassium;2-hydroxypropane-1,2,3-tricarboxylate",Yes,Yes,0
+NAOH,sodium;hydroxide,Yes,Yes,0
+IRON,iron,Yes,Yes,0
+FE,iron,Yes,Yes,0
+LANTHANUM,lanthanum,Yes,Yes,0
+MANGANESE,manganese,Yes,Yes,0
+MERCURY,mercury,No,No,0
+NE,neon,No,No,0
+PM,promethium,No,No,0
+TECHNETIUM,technetium,Yes,Yes,0
+AC,actinium,No,No,0
+AM,americium,No,No,0
+CHROMIUM,chromium,No,No,0
+ALCL3,trichloroalumane,Yes,Yes,0
+ALUMINUM CHLORIDE,trichloroalumane,Yes,Yes,0
+MAGNESIUM SULFATE,magnesium;sulfate,Yes,Yes,0
+MGSO4,magnesium;sulfate,Yes,Yes,0
+HGCL2,dichloromercury,Yes,Yes,0
+MERCURIC CHLORIDE,dichloromercury,Yes,Yes,0
+NA2SO4,disodium;sulfate,Yes,Yes,0
+SODIUM SULFATE,disodium;sulfate,Yes,Yes,0
+CUSO4,copper;sulfate,Yes,Yes,0
+COPPER SULFATE,copper;sulfate,Yes,Yes,0
+CL,molecular chlorine,No,No,0
+CHLORINE,molecular chlorine,No,No,0
+NO,nobelium,No,Yes,0
+OZONE,ozone,No,No,0
+CDCL2,dichlorocadmium,Yes,Yes,0
+BSA,trimethylsilyl N-trimethylsilylethanimidate,None,None,0
+NH4CL,azanium;chloride,None,None,0
+HEME,"3-[18-(2-carboxyethyl)-8,13-bis(ethenyl)-3,7,12,17-tetramethylporphyrin-21,24-diid-2-yl]propanoic acid;iron(2+)",No,Yes,0
+HEMIN,"3-[18-(2-carboxyethyl)-8,13-bis(ethenyl)-3,7,12,17-tetramethylporphyrin-21,24-diid-2-yl]propanoic acid;iron(2+)",None,None,0
+COPPER IONS,copper(2+),No,Yes,0
+FE2+,iron(2+),No,Yes,0
+FERROUS IONS,iron(2+),No,Yes,0
+FLUORIDE,fluoride,Yes,Yes,0
+STREPTOZOTOCIN,"1-methyl-1-nitroso-3-[(2S,3R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea",Yes,Yes,0
+FE3+,iron(3+),No,Yes,0
+FERRIC ION,iron(3+),None,None,0
+PGE,2-(phenoxymethyl)oxirane,No,No,0
+UREA NITROGEN,nitric acid;urea,Yes,Yes,0
+GLU,(2S)-2-aminopentanedioic acid,None,None,0
+GLT,(2S)-2-aminopentanedioic acid,None,None,0
+GLUT,(2S)-2-aminopentanedioic acid,None,None,0
+TROLOX,"6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromene-2-carboxylic acid",Yes,Yes,0
+TROLOX C,"6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromene-2-carboxylic acid",None,None,0
+6-HYDROXY-2,"6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromene-2-carboxylic acid",No,Yes,0
+8-TETRAMETHYLCHROMAN-2-CARBOXYLIC ACID,"6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromene-2-carboxylic acid",No,Yes,0
+TMB,"4-(4-amino-3,5-dimethylphenyl)-2,6-dimethylaniline",No,No,0
+AO,"3-N,3-N,6-N,6-N-tetramethylacridine-3,6-diamine",No,No,0
+ACRIDINE ORANGE,"3-N,3-N,6-N,6-N-tetramethylacridine-3,6-diamine",Yes,Yes,0
+OXALATE,oxalate,Yes,Yes,0
+THEACRINE,"1,3,7,9-tetramethylpurine-2,6,8-trione",No,No,0
+PROPIONATE,propanoate,No,Yes,0
+BUTYRATE,butanoate,Yes,Yes,0
+BUTANOATE,butanoate,No,No,0
+ADA,2-[(2-amino-2-oxoethyl)-(carboxymethyl)amino]acetic acid,No,No,0
+NITRIC OXIDE,nitric oxide,No,Yes,0
+ANTHOCYANIN,2-phenylchromenylium,None,None,0
+ANTHOCYANIDINS,2-phenylchromenylium,No,Yes,0
+HYDROXYL,lambda1-oxidane,No,Yes,0
+HYDROXYL RADICAL,lambda1-oxidane,No,No,0
+SINGLET OXYGEN,oxygen,No,No,0
+SDMA,"(2S)-2-amino-5-[(N,N'-dimethylcarbamimidoyl)amino]pentanoic acid",No,Yes,0
+SYMMETRIC DIMETHYLARGININE,"(2S)-2-amino-5-[(N,N'-dimethylcarbamimidoyl)amino]pentanoic acid",No,Yes,0
+AOPP,3-(2-aminooxyphenyl)propanoic acid,No,No,0
+EG,4-amino-5-(carboxymethylamino)-5-oxopentanoic acid,No,No,0
+NOREPINEPHRINE,"4-[(1R)-2-amino-1-hydroxyethyl]benzene-1,2-diol",No,Yes,0
+NORADRENALINE,"4-[(1R)-2-amino-1-hydroxyethyl]benzene-1,2-diol",No,Yes,0
+ARB,"(2S,3R,4S,5S)-oxane-2,3,4,5-tetrol",No,No,0
+NAASO2,sodium;oxoarsinite,Yes,Yes,0
+SODIUM-ARSENITE,sodium;oxoarsinite,Yes,Yes,0
+RESVERATROL,"5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol",No,Yes,0
+TRANS-RESVERATROL,"5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol",No,Yes,0
+OLEIC ACID,(Z)-octadec-9-enoic acid,Yes,Yes,0
+OLEATE,(Z)-octadec-9-enoic acid,No,Yes,0
+OLE,(Z)-octadec-9-enoic acid,No,No,0
+C18:1,(Z)-octadec-9-enoic acid,No,Yes,0
+SODIUM BICARBONATE,sodium;hydrogen carbonate,Yes,Yes,0
+NAHCO3,sodium;hydrogen carbonate,Yes,Yes,0
+SCFA,sodium;acetate,No,Yes,0
+BCAA,2-bromo-2-chloroacetic acid,Yes,Yes,0
+CAFFEIC ACID,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",Yes,Yes,0
+TG,"2-amino-3,7-dihydropurine-6-thione",No,No,0
+THIOBARBITURIC ACID,"2-sulfanylidene-1,3-diazinane-4,6-dione",No,Yes,0
+THIOBARBITURATE,"2-sulfanylidene-1,3-diazinane-4,6-dione",No,No,0
+TAA,ethanethioamide,No,No,0
+THIOACETAMIDE,ethanethioamide,Yes,Yes,0
+TGS,"2-amino-9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purine-6-thione",Yes,Yes,0
+MPO,"5-(4-methoxyphenyl)-1,3-oxazole",No,No,0
+P-CRESOL SULFATE,(4-methylphenyl) hydrogen sulfate,No,No,0
+PARA-CRESOL SULFATE,(4-methylphenyl) hydrogen sulfate,No,Yes,0
+DICLOFENAC SODIUM,"sodium;2-[2-(2,6-dichloroanilino)phenyl]acetate",Yes,Yes,0
+DICLOFENAC SODIUM SALT,"sodium;2-[2-(2,6-dichloroanilino)phenyl]acetate",Yes,Yes,0
+SODIUM DICLOFENAC,"sodium;2-[2-(2,6-dichloroanilino)phenyl]acetate",Yes,Yes,0
+APIGENIN,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",Yes,Yes,0
+CHAMOMILE,"5,7-dihydroxy-2-(4-hydroxyphenyl)chromen-4-one",No,Yes,0
+LUTEOLIN,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",Yes,Yes,0
+LUTEOLINE,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromen-4-one",Yes,Yes,0
+LINOLEIC ACID,"(9Z,12Z)-octadeca-9,12-dienoic acid",No,No,0
+LINOLEIC,"(9Z,12Z)-octadeca-9,12-dienoic acid",No,No,0
+LINOLEATE,"(9Z,12Z)-octadeca-9,12-dienoic acid",No,No,0
+C18:2,"(9Z,12Z)-octadeca-9,12-dienoic acid",No,No,0
+GENISTEIN,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one",Yes,Yes,0
+GEN,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one",None,None,0
+CHRYSIN,"5,7-dihydroxy-2-phenylchromen-4-one",No,No,0
+FISETIN,"2-(3,4-dihydroxyphenyl)-3,7-dihydroxychromen-4-one",No,Yes,0
+FSE,"2-(3,4-dihydroxyphenyl)-3,7-dihydroxychromen-4-one",No,No,0
+4-HNE,(E)-4-hydroxynon-2-enal,No,No,0
+4-HYDROXYNONENAL,(E)-4-hydroxynon-2-enal,No,Yes,0
+4-HYDROXY-2-NONENAL,(E)-4-hydroxynon-2-enal,No,No,0
+4-HYDROXY-2,(E)-4-hydroxynon-2-enal,No,Yes,0
+3-NONENAL,(E)-4-hydroxynon-2-enal,No,No,0
+VITAMIN B12,"cobalt(3+);[(2R,3S,4R,5S)-5-(5,6-dimethylbenzimidazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] [(2R)-1-[3-[(1R,2R,3R,5Z,7S,10Z,12S,13S,15Z,17S,18S,19R)-2,13,18-tris(2-amino-2-oxoethyl)-7,12,17-tris(3-amino-3-oxopropyl)-3,5,8,8,13,15,18,19-octamethyl-2,7,12,17-tetrahydro-1H-corrin-24-id-3-yl]propanoylamino]propan-2-yl] phosphate;cyanide",No,Yes,0
+PB,lead,Yes,Yes,0
+LEAD,lead,Yes,Yes,0
+CS,cesium,No,No,0
+CESIUM,cesium,No,Yes,0
+AL,aluminum,Yes,Yes,0
+ALUMINUM,aluminum,Yes,Yes,0
+SODIUM,sodium,Yes,Yes,0
+MONOSODIUM,sodium,Yes,Yes,0
+NATRIUM,sodium,Yes,Yes,0
+GA,gallium,Yes,Yes,0
+CALCIUM,calcium,Yes,Yes,0
+CISPLATIN,azane;dichloroplatinum,Yes,Yes,0
+HOMA,8-hydroxyoctyl 2-methylprop-2-enoate,No,No,0
+BEMPEDOIC ACID,"8-hydroxy-2,2,14,14-tetramethylpentadecanedioic acid",No,Yes,0
+ETC-1002,"8-hydroxy-2,2,14,14-tetramethylpentadecanedioic acid",No,Yes,0
+HAUCL4,trichlorogold;hydrochloride,Yes,Yes,0
+FT3,"2-(2,4-dichlorophenoxy)-5-(hydroxymethyl)phenol",No,No,0
+OP,"(2S)-2,5-diaminopentanoic acid;2-phenylacetic acid",No,No,0
+WARFARIN,4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one,Yes,Yes,0
+COUMARINS,4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one,Yes,Yes,0
+COMPOUND 42,4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one,No,No,0
+GUA,"2-amino-1,7-dihydropurin-6-one",No,No,0
+HYPOXANTHINE,"1,7-dihydropurin-6-one",No,Yes,0
+HX,"1,7-dihydropurin-6-one",None,None,0
+METHANE,methane,No,No,0
+MAGNESIUM AMMONIUM PHOSPHATE HEXAHYDRATE,azanium;magnesium;phosphate;hexahydrate,Yes,Yes,0
+ACTIVATED CARBON,carbon,Yes,No,1
+CARBON NANOFIBERS,methane,Yes,No,1
+BRUSHITE,calcium;hydrogen phosphate;dihydrate,Yes,Yes,0
+HYDROXYAPATITE,pentacalcium;hydroxide;triphosphate,Yes,No,1
+STRUVITE,azanium;magnesium;phosphate;hexahydrate,Yes,No,1
