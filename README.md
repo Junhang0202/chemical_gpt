@@ -53,7 +53,7 @@ Run `BioGPT.py` to get word embeddings and similarities.
 You need to apply for a [ *GPT-4* API account](https://openai.com/blog/gpt-4-api-general-availability)
 . Based on our tests, the performance of *GPT-4* is far superior to *GPT-3.5*.
    
-> **Note:** All *GPT-3.5* model does not currently support in this code. We will add relevant code in next version.
+> **Note:**  We use GPT 4.0 in our experiment. *GPT-3.5* model still support in this code,but we don't recommend using GPT-3.5
 
 To quickly run the code, follow the steps below:
 
