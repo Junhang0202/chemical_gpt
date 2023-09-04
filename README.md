@@ -29,7 +29,7 @@ In the fourth step, we utilize a tool-enhanced [`GPT-4`](https://openai.com/gpt-
 Note: We recommend deploying the MatWISE framework on a Linux-based system for optimal performance and compatibility. Detailed instructions will be provided in the subsequent sections.
 
 
-### Named Entity Recognition:
+### Step1. Named Entity Recognition:
 
 If you are using MatWISE for the first time, you will need to download the necessary models for the NER.To download the English model with the 'BioNLP13CG' NER processor, run the following Python code:
 ```lang
@@ -39,16 +39,14 @@ Then you can run:
 `Named_entity_Recognition.py`
 
 
-### Semantic Relationship Mapping:
+### Step2. Semantic Relationship Mapping:
 Run `Chemical_Entity_IUPAC_Unifying.py` to get IUPAC name and CID.
 
-### Word Embedding & Caculate similarity:
+### Step3. Word Embedding & Caculate similarity:
 Run `BioGPT.py` to get word embeddings and similarities.
 
-### Automated chemical entity screening powere by GPT-4
+### Step4. Automated chemical entity screening powere by GPT-4
 
-
-## 1. Before run the code
 
 ---
 
@@ -56,8 +54,6 @@ You need to apply for a [ *GPT-4* API account](https://openai.com/blog/gpt-4-api
 . Based on our tests, the performance of *GPT-4* is far superior to *GPT-3.5*.
    
 > **Note:** All *GPT-3.5* model does not currently support in this code. We will add relevant code in next version.
-
-## 2. Quick Start
 
 To quickly run the code, follow the steps below:
 
@@ -80,18 +76,13 @@ To quickly run the code, follow the steps below:
    ```
 > **Note:**[ More detail about SERP_API_KEY](https://serpapi.com/)
 
-3. Install the required dependencies:
-
-   ```
-   conda env create -f environment.yml
-   ```
 
 
-4. Using ChemAssistant:
+3. Run Automated_chemical_screening.py:
 
    ```
    cd  xxx\chemical_material_gpt
-   nohup python Automated_chemical_screening.py >chembot_output.txt 2>&1 &echo $! > chembot_output_id.txt
+   nohup python Automated_chemical_screening.py >finish_material_screening.txt 2>&1 &echo $! > chemicalmaterial_output_id.txt
    ```
 
 You should now be able to run the code successfully. 
